@@ -1,0 +1,17 @@
+{
+  "name": "proy_almacen",
+  "version": "1.0.0",
+  "description": "proyecto almacen curso mean",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "crud"
+  ],
+  "author": "Victor Manuel Mamani",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
